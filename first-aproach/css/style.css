@@ -17,11 +17,14 @@ h1 {
 }
 
 h2 {
-    color: #CB731C;
-    text-align: center;
-    font-size: 2rem;
+    background-color: lightblue;
+    inline-size: 350px;
 }
 
+p {
+    background-color: #22466c;
+    color: #ffffff;
+}
 footer {
     background-color: #22466c;
     color: #ffffff;
