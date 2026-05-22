@@ -24,6 +24,7 @@ h2 {
 p {
     background-color: #22466c;
     color: #ffffff;
+    block-size: 50px;
 }
 footer {
     background-color: #22466c;
